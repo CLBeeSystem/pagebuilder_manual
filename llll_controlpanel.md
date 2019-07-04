@@ -114,7 +114,8 @@ ____
 
 | 그룹 지정 시 레이어 | 그룹 해제 시 레이어 |
 | :-----: | :-----: |
-| <img src='./figure/4-1-5-6.jpg' width="250"> | <img src='./figure/4-1-5-5.jpg' width="250"> |
+| <img src='./figure/4-1-5-6.jpg' width="200"> | <img src='./figure/4-1-5-5.jpg' width="200"> |
+
 그룹화는 레이어 패널에서 확인할 수 있으며, 드래그앤드롭으로도 그룹 순서를 바꿀 수 있습니다. 
 
 ### **⑥ 확대/축소<a id=ghkreocnrth></a>**
