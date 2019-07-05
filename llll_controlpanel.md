@@ -94,7 +94,7 @@
 
 ### **⑥ 확대/축소<a id=ghkreocnrth></a>**
 
-<img src='./figure/4-4.jpg' style="width:200px; height:auto; align:right;">
+<img src='./figure/4-4.jpg' width="200px" style="width:200px; height:auto; align:right;">
 
 작업 창의 화면을 원하는 비율에 맞게 확대/축소 할 수 있습니다. 
 
