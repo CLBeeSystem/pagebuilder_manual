@@ -7,13 +7,13 @@
 ---
 ## **홈 탭**
 
-<img src='./figure/04-1(깸).png' style="width:800px; height:auto; align:right;">
+<img src='./figure/04-1(깸).png' width-= "800px">
 
 컨트롤 패널의 기본은 홈 탭 모드입니다. 홈 탭에는 [클립보드](#zmfflqqhem), [도형 서식](#ehgudtjtlr), [개체 정렬](#rocpwjdfuf), [정렬](#wjdfuf), [그룹](#rmfnq), [확대/축소](#ghkreocnrth), [유실된 리소스](#dbtlfehlsflthtm) 같은 객체를 편집하기 위한 편리 기능이 있습니다.
 
 ### **① 클립보드<a id=zmfflqqhem></a>**
 
-<img src='./figure/4-1-1.jpg' style="width:200px; height:auto; align:right;">
+<img src='./figure/4-1-1.jpg' width-= "200px" ">
 
 - 오려두기: 객체를 지웠다가 다시 붙이는 기능입니다.
 - 복사하기: 객체를 복사하는 기능입니다.
@@ -21,7 +21,7 @@
    
 ### **② 도형 서식<a id=ehgudtjtlr></a>**
 
-<img src='./figure/4-1-2.jpg' style="width: 600px; height:auto;">
+<img src='./figure/4-1-2.jpg' width="400px" style="height:auto;">
 
 - X, Y: 객체의 위치를 나타내며 임의로 지정할 수 있습니다. (단위는 px)
 - W, H: 객체의 크기(너비와 높이)를 나타내며 임의로 지정할 수 있습니다. (단위는 px)
@@ -35,7 +35,7 @@
 
 ### **③ 객체 정렬<a id=rorcpwjdfuf></a>**
 
-<img src='./figure/4-1-3.jpg' style="width:200px; height:auto; align:right;">
+<img src='./figure/4-1-3.jpg' width="200px" style="height:auto;">
 
 정렬은 여러 개의 레이어 모서리 위치를 맞추거나 간격을 적절하게 지정할 수 있는 도구입니다. 두 개 이상의 레이어를 선택한 후 원하는 방향의 정렬 및 배분 아이콘을 선택하시면 됩니다.  
 
@@ -50,7 +50,7 @@
 
 ### **④ 정렬(z-index)<a id=wjdfuf></a>**
 
-<img src='./figure/4-1-4.jpg' style="width:200px; height:auto; align:right;">
+<img src='./figure/4-1-4.jpg' width="200px" style="height:auto;">
 
 객체를 선택한 후 정렬 아이콘을 선택하시면 객체의 배치 순서를 바꿀 수 있습니다. 
 
@@ -73,7 +73,7 @@
 
 ### **⑤ 그룹<a id=rmfnq></a>**
 
-<img src='./figure/4-1-5.jpg' style="width:200px; height:auto; align:right;">
+<img src='./figure/4-1-5.jpg' width="200px" style="height:auto;">
 
 그룹은 둘 이상의 객체를 묶어 하나의 객체처럼 다루는 방법입니다.
 
@@ -104,7 +104,7 @@
   
 유실된 리소스란 페이지빌더 문서에서 참조하고 있으나 실제 존재하지 않는 리소스(이미지 파일, 액션)를 의미합니다.
 
-<img src='./figure/4-5-1.png' width="400px"/>
+<img src='./figure/4-5-1.png' width="200px" style="height:auto;">
 
  1. 파일 대치: 유실된 파일을 다른 파일로 대치합니다.
  2. 폴더 대치: 폴더 전체의 파일들을 같은 이름의 파일로 대치합니다.
