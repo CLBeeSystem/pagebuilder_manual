@@ -1,20 +1,19 @@
 # **4. 컨트롤 패널 살펴보기**
 컨트롤 패널은 최상단의 탭(홈, 삽입, 보기)에 따라 다른 형태의 리본 메뉴가 나타납니다. 또한 객체의 유형(텍스트박스, 이미지박스, 무비박스 등)에 따라 속성값을 수정하는 서식 메뉴가 나타납니다.
 
-
 - [홈 탭](#home-tap) 에서는 객체를 편집하는 도구들을 보여줍니다. 
 - [삽입 탭](#insert-tap)에서는 텍스트 박스, 이미지 박스, 도형 등 다양한 도구들을 보여줍니다. 
 - [보기 탭](#view-tap)에서는 작업에 도움이 되는 눈금자, 안내선을 보여줍니다.
 ---
 ## **홈 탭**
 
-<img src='./figure/04-1(깸).png' width="1000px"/>
+<img src='./figure/04-1(깸).png' style="width:800px; height:auto; align:right;">
 
 컨트롤 패널의 기본은 홈 탭 모드입니다. 홈 탭에는 [클립보드](#zmfflqqhem), [도형 서식](#ehgudtjtlr), [개체 정렬](#rocpwjdfuf), [정렬](#wjdfuf), [그룹](#rmfnq), [확대/축소](#ghkreocnrth), [유실된 리소스](#dbtlfehlsflthtm) 같은 객체를 편집하기 위한 편리 기능이 있습니다.
 
 ### **① 클립보드<a id=zmfflqqhem></a>**
 
-<img src='./figure/4-1-1.jpg' width="200px"/>
+<img src='./figure/4-1-1.jpg' style="width:200px; height:auto; align:right;">
 
 - 오려두기: 객체를 지웠다가 다시 붙이는 기능입니다.
 - 복사하기: 객체를 복사하는 기능입니다.
@@ -22,7 +21,7 @@
    
 ### **② 도형 서식<a id=ehgudtjtlr></a>**
 
-<img src='./figure/4-1-2.jpg' width="500px"/>
+<img src='./figure/4-1-2.jpg' style="width: 600px; height:auto;">
 
 - X, Y: 객체의 위치를 나타내며 임의로 지정할 수 있습니다. (단위는 px)
 - W, H: 객체의 크기(너비와 높이)를 나타내며 임의로 지정할 수 있습니다. (단위는 px)
@@ -36,32 +35,32 @@
 
 ### **③ 객체 정렬<a id=rorcpwjdfuf></a>**
 
-<img src='./figure/4-1-3.jpg' width="200px"/>
+<img src='./figure/4-1-3.jpg' style="width:200px; height:auto; align:right;">
 
 정렬은 여러 개의 레이어 모서리 위치를 맞추거나 간격을 적절하게 지정할 수 있는 도구입니다. 두 개 이상의 레이어를 선택한 후 원하는 방향의 정렬 및 배분 아이콘을 선택하시면 됩니다.  
 
 | 왼쪽 정렬 | 가운데(수직) 정렬 | 오른쪽 정렬 | 수직 중앙 정렬 |
 | :-----: | :-----: | :-----: | :-----: |
-| <img src='./figure/4-1-3-1.jpg' width="150px"/> | <img src='./figure/4-1-3-2.jpg' width="150px"/> | <img src='./figure/4-1-3-3.jpg' width="150px"/> | <img src='./figure/4-1-3-4.jpg' width="150px"/>|
+| <img src='./figure/4-1-3-1.jpg' style="width: 150px; height:auto;"> | <img src='./figure/4-1-3-2.jpg' style="width: 150px; height:auto;" ailgn=left> | <img src='./figure/4-1-3-3.jpg' style="width: 150px; height:auto;"> | <img src='./figure/4-1-3-4.jpg' style="width: 150px; height:auto;">|
 
 | 상단 정렬 | 가운데(수평) 정렬 | 하단 정렬 |  수평 중앙 정렬 |
 | :-----: | :-----: | :-----: | :-----: |
-| <img src='./figure/4-1-3-5.jpg' width="150px"/> | <img src='./figure/4-1-3-6.jpg' width="150px"/> | <img src='./figure/4-1-3-7.jpg' width="150px"/> | <img src='./figure/4-1-3-8.jpg' width="150px"/>|
+| <img src='./figure/4-1-3-5.jpg' style="width: 150px; height:auto;"> | <img src='./figure/4-1-3-6.jpg' style="width: 150px; height:auto;"> | <img src='./figure/4-1-3-7.jpg' style="width: 150px; height:auto;"> | <img src='./figure/4-1-3-8.jpg' style="width: 150px; height:auto;">|
 
 
 ### **④ 정렬(z-index)<a id=wjdfuf></a>**
 
-<img src='./figure/4-1-4.jpg' width="200px"/>
+<img src='./figure/4-1-4.jpg' style="width:200px; height:auto; align:right;">
 
 객체를 선택한 후 정렬 아이콘을 선택하시면 객체의 배치 순서를 바꿀 수 있습니다. 
 
 | 현재 위치 (2-3-1) | 앞으로 가져오기 (2-1-3) | 맨 앞으로 가져오기 (1-2-3) |
 | :-----: | :-----: | :-----: |
-| <img src='./figure/4-3-0.jpg' width="150px"/> | <img src='./figure/4-3-0-1.jpg' width="150px"/> | <img src='./figure/4-3-0-2.jpg' width="150px"/> |
+| <img src='./figure/4-3-0.jpg' style="width: 150px; height:auto;"> | <img src='./figure/4-3-0-1.jpg' style="width: 150px; height:auto;"> | <img src='./figure/4-3-0-2.jpg' style="width: 150px; height:auto;"> |
 
 | 현재 위치 (1-2-3) | 뒤로 보내기 (2-1-3) | 맨 뒤로 보내기 (2-3-1) |
 | :-----: | :-----: | :-----: |
-| <img src='./figure/4-3-0-3.jpg' width="150px"/> | <img src='./figure/4-3-0-4.jpg' width="150px"/> | <img src='./figure/4-3-0-5.jpg' width="150px"/> |
+| <img src='./figure/4-3-0-3.jpg' style="width: 150px; height:auto;"> | <img src='./figure/4-3-0-4.jpg' style="width: 150px; height:auto;"> | <img src='./figure/4-3-0-5.jpg' style="width: 150px; height:auto;"> |
 
 <br>
 
@@ -74,7 +73,7 @@
 
 ### **⑤ 그룹<a id=rmfnq></a>**
 
-<img src='./figure/4-1-5.jpg' width="200px"/>
+<img src='./figure/4-1-5.jpg' style="width:200px; height:auto; align:right;">
 
 그룹은 둘 이상의 객체를 묶어 하나의 객체처럼 다루는 방법입니다.
 
@@ -95,13 +94,13 @@
 
 ### **⑥ 확대/축소<a id=ghkreocnrth></a>**
 
-<img src='./figure/4-4.jpg' width="200px"/>
+<img src='./figure/4-4.jpg' style="width:200px; height:auto; align:right;">
 
 작업 창의 화면을 원하는 비율에 맞게 확대/축소 할 수 있습니다. 
 
 ### **⑦ 유실된 리소스<a id=anstjwjdqh></a>**
 
-<img src='./figure/4-1-7.png' width="200px"/>
+<img src='./figure/4-1-7.png' style="width:200px; height:auto; align:right;">
   
 유실된 리소스란 페이지빌더 문서에서 참조하고 있으나 실제 존재하지 않는 리소스(이미지 파일, 액션)를 의미합니다.
 
