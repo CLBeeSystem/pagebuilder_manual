@@ -1,27 +1,27 @@
 
 # **3. 작업 영역 살펴보기**
-페이지빌더는 다음 화면과 같이 6개의 주요 작업 영역으로 구성됩니다.
-화면 구성이 직관적이고 간단하므로 초보 사용자도 쉽게 사용할 수 있습니다. 
+>페이지빌더는 다음 화면과 같이 6개의 주요 작업 영역으로 구성됩니다.<br>
+화면 구성이 직관적이고 간단하므로 초보 사용자도 쉽게 사용할 수 있습니다.<br> 
 숙련된 사용자는 고급 기능을 사용하여 더 빠른 편집을 할 수 있습니다.
 
+---
 ## **작업 영역 및 패널**
-<img src='./figure/03-inter.png' width="800px" max-width="1000px; height=auto">
+<img src='./figure/03-inter.png' max-width="800px" height="auto" aligh="left">
 
 ### **① 빠른 실행 도구 모음**
-<img src='./figure/03-inter-2.jpg' width="300px" style="max-width=500px; height=auto"> 
+<img src='./figure/03-inter-2.jpg' width="500px" stlye="max-width=500px; height=auto; aligh=left">
 
 빠른 실행 도구 모음은 화면 최상단에 위치합니다. 
 빠른 실행 도구 모음에는 저장, 실행취소, 실행복귀, 미리보기, 파일 불러오기 같은 사용자가 자주 사용하는 도구가 있습니다. 
 
 ### **② 컨트롤 패널**
-<img src='./figure/03-inter-3.png' width="1200px" height="auto"> 
-
+<img src='./figure/03-inter-3.png' width="800px" stlye="max-width=800px; height=auto; aligh=left">
 
 컨트롤 패널은 화면 상단에 위치합니다. 컨트롤 패널에는 객체를 세부적으로 편집할 때 사용하는 기능들을 담고 있습니다. 예를 들어, 객체의 크기와 위치를 조절하는 기능과 색상을 변경하는 속성이 있습니다. 
 
 ### **③ 페이지 패널**
 
-<img src='./figure/03-inter-4.jpg' width="250px"/> 
+<img src='./figure/03-inter-4.jpg' width="250px" stlye="max-width=500px; height=auto; aligh=left">
 
 페이지 패널에서는 페이지 윤곽이 보이는 썸네일 이미지의 목록을 볼 수 있습니다.
 드래그로 페이지 순서를 재배치할 수 있으며, 페이지를 추가하거나 삭제할 수 있습니다. 
@@ -29,7 +29,7 @@
 
 ### **④ 레이어 패널**
 
-<img src='./figure/03-inter-5.jpg' width="250px"/>
+<img src='./figure/03-inter-5.jpg' width="250px" stlye="max-width=500px; height=auto; aligh=left">
 
 레이어 패널에서는 레이어를 편리하게 구성하고 관리할 수 있습니다. 페이지별 레이어 목록 확인과 레이어 추가, 삭제를 할 수 있습니다. 또한, 앞의 눈 아이콘을 클릭하면 작업창에서 레이어를 숨기거나 보이게 할 수 있고, 앞의 자물쇠 아이콘을 누르시면 레이어 이동을 잠그거나 풀 수 있습니다.
 
