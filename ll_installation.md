@@ -12,10 +12,10 @@
 ## 페이지빌더 다운로드
 
 1. Page Builder.exe 실행 파일을 더블클릭합니다.<br>
-<img src='./figure/2-1.jpg' width="600px"; height="auto"; max-width="800px">
+<img src='./figure/2-1.jpg' width="600px" height="auto">
 
 1. 설치 시작 화면에서 <button name="button">다음(N)></button>을 클릭합니다.<br>
-<img src='./figure/2-2.jpg' width="600px" style="height=auto; max-width=800px">
+<img src='./figure/2-2.jpg' width="600px" style="height=auto max-width=800px">
 
 3. 설치될 폴더를 지정한 후  <button name="button">다음(I)></button>을 클릭합니다.<br>
 <img src='./figure/2-3.jpg' width="600px"/>
