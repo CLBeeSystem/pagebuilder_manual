@@ -5,18 +5,16 @@
 숙련된 사용자는 고급 기능을 사용하여 더 빠른 편집을 할 수 있습니다.
 
 ## **작업 영역 및 패널**
-<img src='./figure/03-inter.png' width="800px"/>
+<img src='./figure/03-inter.png' width="800px" max-width="1000px; height=auto">
 
 ### **① 빠른 실행 도구 모음**
-
-<img src='./figure/03-inter-2.jpg' width="200px"> 
+<img src='./figure/03-inter-2.jpg' width="300px" style="max-width=500px; height=auto"> 
 
 빠른 실행 도구 모음은 화면 최상단에 위치합니다. 
 빠른 실행 도구 모음에는 저장, 실행취소, 실행복귀, 미리보기, 파일 불러오기 같은 사용자가 자주 사용하는 도구가 있습니다. 
 
 ### **② 컨트롤 패널**
-
-<img src='./figure/03-inter-3.png' width="1200px"/> 
+<img src='./figure/03-inter-3.png' width="1200px" height="auto"> 
 
 
 컨트롤 패널은 화면 상단에 위치합니다. 컨트롤 패널에는 객체를 세부적으로 편집할 때 사용하는 기능들을 담고 있습니다. 예를 들어, 객체의 크기와 위치를 조절하는 기능과 색상을 변경하는 속성이 있습니다. 
