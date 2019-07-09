@@ -30,38 +30,40 @@ description: 액션은 페이지빌더의 핵심 기능 중에 하나로서 그�
   <tbody>
     <tr>
       <td style="text-align:left">Page</td>
-      <td style="text-align:left">**&#xC790;&#xB3D9;** : &#xD398;&#xC774;&#xC9C0; &#xC2E4;&#xD589;&#xC2DC;
+      <td style="text-align:left">&#xC790;&#xB3D9; : &#xD398;&#xC774;&#xC9C0; &#xC2E4;&#xD589;&#xC2DC;
         &#xC790;&#xB3D9;&#xC73C;&#xB85C; &#xC2E4;&#xD589;&#xB429;&#xB2C8;&#xB2E4;.</td>
     </tr>
     <tr>
       <td style="text-align:left">Touch</td>
       <td style="text-align:left">
-        <p>**&#xB204;&#xB974;&#xAE30;** : &#xAC1D;&#xCCB4; &#xD074;&#xB9AD; &#xC0C1;&#xD0DC;&#xC5D0;&#xC11C;
+        <p>&#xB204;&#xB974;&#xAE30; : &#xAC1D;&#xCCB4; &#xD074;&#xB9AD; &#xC0C1;&#xD0DC;&#xC5D0;&#xC11C;
           &#xC561;&#xC158;&#xC774; &#xC2E4;&#xD589;&#xB429;&#xB2C8;&#xB2E4;.</p>
-        <p>**&#xB5BC;&#xAE30;** : &#xAC1D;&#xCCB4;&#xC5D0;&#xC11C; &#xBC84;&#xD2BC;
+        <p>&#xB5BC;&#xAE30; : &#xAC1D;&#xCCB4;&#xC5D0;&#xC11C; &#xBC84;&#xD2BC;
           &#xC5C5; &#xC0C1;&#xD0DC;&#xC5D0;&#xC11C; &#xC561;&#xC158;&#xC774; &#xC2E4;&#xD589;&#xB429;&#xB2C8;&#xB2E4;.</p>
-        <p>**&#xB4DC;&#xB798;&#xADF8;&amp;&#xB4DC;&#xB86D;** : &#xAC1D;&#xCCB4;&#xB97C;
+        <p>&#xB4DC;&#xB798;&#xADF8;&amp;&#xB4DC;&#xB86D; : &#xAC1D;&#xCCB4;&#xB97C;
           &#xB2E4;&#xB978; &#xACF3;&#xC73C;&#xB85C; &#xB04C;&#xC5B4;&#xB2E4; &#xB193;&#xC744;
           &#xB54C; &#xC561;&#xC158;&#xC774; &#xC2E4;&#xD589;&#xB429;&#xB2C8;&#xB2E4;.</p>
-        <p>**&#xB4DC;&#xB798;&#xADF8;** : &#xAC1D;&#xCCB4;&#xB97C; &#xB4DC;&#xB798;&#xADF8;
+        <p>&#xB4DC;&#xB798;&#xADF8; : &#xAC1D;&#xCCB4;&#xB97C; &#xB4DC;&#xB798;&#xADF8;
           &#xD560; &#xB54C; &#xC561;&#xC158;&#xC774; &#xC2E4;&#xD589;&#xB429;&#xB2C8;&#xB2E4;.</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">&#xC0AC;&#xC6A9;&#xC790;&#xA0;</td>
       <td style="text-align:left">
-        <p>**&#xC870;&#xAC74;&#xBD80;** : &#xD0C0;&#xAC9F;&#xACFC; &#xC18D;&#xC131;&#xC744;
+        <p> &#xC870;&#xAC74;&#xBD80; : &#xD0C0;&#xAC9F;&#xACFC; &#xC18D;&#xC131;&#xC744;
           &#xBE44;&#xAD50;&#xD55C; &#xC124;&#xC815;&#xAC12;&#xC744; &#xC800;&#xC7A5;&#xD569;&#xB2C8;&#xB2E4;.</p>
-        <p>**&#xB77C;&#xC774;&#xBE0C;&#xB7EC;&#xB9AC;** : &#xB77C;&#xC774;&#xBE0C;&#xB7EC;&#xB9AC;&#xC5D0;
+        <p> &#xB77C;&#xC774;&#xBE0C;&#xB7EC;&#xB9AC; : &#xB77C;&#xC774;&#xBE0C;&#xB7EC;&#xB9AC;&#xC5D0;
           &#xC124;&#xC815;&#xD55C; &#xC561;&#xC158;&#xC744; &#xC800;&#xC7A5;&#xD569;&#xB2C8;&#xB2E4;.</p>
       </td>
     </tr>
   </tbody>
-</table>> 드래그&드롭시 드래그를 할 수 있는 범위인 드래그 영역과 드롭 효과가 나타나는 부분인 액션 영역을 지정할 수 있습니다.
+</table> 
+
+드래그&드롭시 드래그를 할 수 있는 범위인 드래그 영역과 드롭 효과가 나타나는 부분인 액션 영역을 지정할 수 있습니다.
 
 ![](.gitbook/assets/03-2_1.png)
 
-> 드래그&드롭 효과를 넣을 객체를 선택하고 사용자 모드 패널 위에 나타나는 i 아이콘을 누르시면 작업창에 파란색, 보라색 박스가 나타납니다. 파란색 선은 드래그 영역이며, 보라색 박스는 드랍시 액션 효과가 나타나는 영역입니다. 마우스로 영역을 설정한 뒤 설정 팝업창에서 확인 버튼을 누르시면 됩니다.
+드래그&드롭 효과를 넣을 객체를 선택하고 사용자 모드 패널 위에 나타나는 i 아이콘을 누르시면 작업창에 파란색, 보라색 박스가 나타납니다. 파란색 선은 드래그 영역이며, 보라색 박스는 드랍시 액션 효과가 나타나는 영역입니다. 마우스로 영역을 설정한 뒤 설정 팝업창에서 확인 버튼을 누르시면 됩니다.
 
 ### **② 타임라인 상태표시**
 
@@ -253,7 +255,7 @@ description: 액션은 페이지빌더의 핵심 기능 중에 하나로서 그�
 * 정지: 지정한 타켓의 액션을 멈춥니다.
 * 콘텐츠 지정: 객체의 콘텐츠를 바꿀 수 있습니다.
 
-**액션 타입 살펴보기 -3. 태그값**
+## **액션 타입 살펴보기 -3. 태그값**
 
 ![](.gitbook/assets/3.jpg)
 

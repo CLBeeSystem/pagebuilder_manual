@@ -1,7 +1,6 @@
 ---
 description: >-
-  컨트롤 패널은 최상단의 탭(홈, 삽입, 보기)에 따라 다른 형태의 리본 메뉴가 나타납니다. 또한 객체의 유형(텍스트박스, 이미지박스,
-  무비박스 등)에 따라 속성값을 수정하는 서식 메뉴가 나타납니다.
+  컨트롤 패널은 최상단의 탭(홈, 삽입, 보기)에 따라 다른 형태의 리본 메뉴가 나타납니다. 또한 객체의 유형(텍스트박스, 이미지박스, 무비박스 등)에 따라 속성값을 수정하는 서식 메뉴가 나타납니다.
 ---
 
 # 컨트롤 패널 살펴보기
@@ -14,7 +13,7 @@ description: >-
 
 ![](.gitbook/assets/04-1%20%281%29.png)
 
-컨트롤 패널의 기본은 홈 탭 모드입니다. 홈 탭에는 [클립보드](llll_controlpanel.md#zmfflqqhem), [도형 서식](llll_controlpanel.md#ehgudtjtlr), [개체 정렬](llll_controlpanel.md#rocpwjdfuf), [정렬](llll_controlpanel.md#wjdfuf), [그룹](llll_controlpanel.md#rmfnq), [확대/축소](llll_controlpanel.md#ghkreocnrth), [유실된 리소스](llll_controlpanel.md#dbtlfehlsflthtm) 같은 객체를 편집하기 위한 편리 기능이 있습니다.
+컨트롤 패널의 기본은 홈 탭 모드입니다. 홈 탭에는 ①[클립보드](llll_controlpanel.md#zmfflqqhem), ②[도형 서식](llll_controlpanel.md#ehgudtjtlr), ③[개체 정렬](llll_controlpanel.md#rocpwjdfuf), ⑥[정렬](llll_controlpanel.md#wjdfuf), ⑤[그룹](llll_controlpanel.md#rmfnq), ⑥[확대/축소](llll_controlpanel.md#ghkreocnrth), ⑦[유실된 리소스](llll_controlpanel.md#dbtlfehlsflthtm) 같은 객체를 편집하기 위한 편리 기능이 있습니다.
 
 ### **① 클립보드**
 
@@ -154,7 +153,7 @@ description: >-
 
 ![](.gitbook/assets/4-11%20%282%29.jpg)
 
-1. 이미지 박스 선택 후 이미지 박스 서식 메뉴에서 왼쪽에 있는 파일 아이콘을 선택하면
+2. 이미지 박스 선택 후 이미지 박스 서식 메뉴에서 왼쪽에 있는 파일 아이콘을 선택하면
 
    이미지가 열립니다.
 
@@ -213,11 +212,11 @@ description: >-
 
 ![](.gitbook/assets/4-20-2%20%281%29.jpg)
 
-1. 생성된 웹 박스를 더블 클릭 한 후 웹 박스 서식 메뉴에서 URL 입력 박스에 URL 주소를 입력합니다.
+2. 생성된 웹 박스를 더블 클릭 한 후 웹 박스 서식 메뉴에서 URL 입력 박스에 URL 주소를 입력합니다.
 
 ![](.gitbook/assets/4-20-3.jpg)
 
-1. 미리보기 창에서 입력한 URL의 웹페이지를 볼 수 있습니다.
+3. 미리보기 창에서 입력한 URL의 웹페이지를 볼 수 있습니다.
 
 ### **⑥ 무비 박스**
 
@@ -237,11 +236,11 @@ description: >-
 
 ![](.gitbook/assets/4-21-3.jpg)
 
-1. 객체를 더블 클릭한 후 무비 박스 서식 메뉴 맨 왼쪽에 있는 파일 아이콘을 클릭한 뒤 영상 파일을 선택하면 영상이 나타납니다.
+2. 객체를 더블 클릭한 후 무비 박스 서식 메뉴 맨 왼쪽에 있는 파일 아이콘을 클릭한 뒤 영상 파일을 선택하면 영상이 나타납니다.
 
 ![](.gitbook/assets/4-21-4%20%281%29.jpg)
 
-1. 미리보기 창을 열면, 영상을 재생할 수 있습니다. 
+3. 미리보기 창을 열면, 영상을 재생할 수 있습니다. 
 
 > 영상 미리보기는 미리보기 하위 메뉴 중 'Google Chrome'과 'Internet Explorer' 에서만 확인이 가능합니다.  
 >  \(작업창과 미리보기 하위 메뉴 중 '미리보기' 에서는 영상 재생이 불가합니다.\)
