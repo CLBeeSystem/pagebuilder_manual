@@ -1,5 +1,5 @@
 # **4. 컨트롤 패널 살펴보기**
-컨트롤 패널은 최상단의 탭(홈, 삽입, 보기)에 따라 다른 형태의 리본 메뉴가 나타납니다. 또한 객체의 유형(텍스트박스, 이미지박스, 무비박스 등)에 따라 속성값을 수정하는 서식 메뉴가 나타납니다.
+>컨트롤 패널은 최상단의 탭(홈, 삽입, 보기)에 따라 다른 형태의 리본 메뉴가 나타납니다. 또한 객체의 유형(텍스트박스, 이미지박스, 무비박스 등)에 따라 속성값을 수정하는 서식 메뉴가 나타납니다.
 
 - [홈 탭](#home-tap) 에서는 객체를 편집하는 도구들을 보여줍니다. 
 - [삽입 탭](#insert-tap)에서는 텍스트 박스, 이미지 박스, 도형 등 다양한 도구들을 보여줍니다. 
@@ -7,13 +7,13 @@
 ---
 ## **홈 탭**
 
-<img src='./figure/04-1(깸).png' style="width:800px; height:auto;">
+<img src='./figure/04-1(깸).png'>
 
 컨트롤 패널의 기본은 홈 탭 모드입니다. 홈 탭에는 [클립보드](#zmfflqqhem), [도형 서식](#ehgudtjtlr), [개체 정렬](#rocpwjdfuf), [정렬](#wjdfuf), [그룹](#rmfnq), [확대/축소](#ghkreocnrth), [유실된 리소스](#dbtlfehlsflthtm) 같은 객체를 편집하기 위한 편리 기능이 있습니다.
 
 ### **① 클립보드<a id=zmfflqqhem></a>**
 
-<img src='./figure/4-1-1.jpg' style="width:200px; height:auto;">
+<img src='./figure/4-1-1.jpg'>
 
 - 오려두기: 객체를 지웠다가 다시 붙이는 기능입니다.
 - 복사하기: 객체를 복사하는 기능입니다.
@@ -35,13 +35,13 @@
 
 ### **③ 객체 정렬<a id=rorcpwjdfuf></a>**
 
-<img src='./figure/4-1-3.jpg' style="width:200px; height:auto;">
+<img src='./figure/4-1-3.jpg'>
 
 정렬은 여러 개의 레이어 모서리 위치를 맞추거나 간격을 적절하게 지정할 수 있는 도구입니다. 두 개 이상의 레이어를 선택한 후 원하는 방향의 정렬 및 배분 아이콘을 선택하시면 됩니다.  
 
 | 왼쪽 정렬 | 가운데(수직) 정렬 | 오른쪽 정렬 | 수직 중앙 정렬 |
 | :-----: | :-----: | :-----: | :-----: |
-| <img src='./figure/4-1-3-1.jpg' style="width:150px; height:auto;"> | <img src='./figure/4-1-3-2.jpg' style="width:150px;height:auto;" ailgn=left> | <img src='./figure/4-1-3-3.jpg' style="width:150px;height:auto;"> | <img src='./figure/4-1-3-4.jpg' style="width:150px;height:auto;">|
+| <img src='./figure/4-1-3-1.jpg'> | <img src='./figure/4-1-3-2.jpg' ailgn=left> | <img src='./figure/4-1-3-3.jpg'> | <img src='./figure/4-1-3-4.jpg'>|
 
 | 상단 정렬 | 가운데(수평) 정렬 | 하단 정렬 |  수평 중앙 정렬 |
 | :-----: | :-----: | :-----: | :-----: |
@@ -73,7 +73,7 @@
 
 ### **⑤ 그룹<a id=rmfnq></a>**
 
-<img src='./figure/4-1-5.jpg' style="width:200px; height:auto;">
+<img src='./figure/4-1-5.jpg'>
 
 그룹은 둘 이상의 객체를 묶어 하나의 객체처럼 다루는 방법입니다.
 
@@ -246,15 +246,15 @@
 
 ### **영상 가져오기**
 
-<img src='./figure/4-21-2.jpg' width='500px'/>
+<img src='./figure/4-21-2.jpg'>
 
 1. 무비 박스 선택 후 작업 창에 드래그합니다.
 
-<img src='./figure/4-21-3.jpg' width='700px'/>
+<img src='./figure/4-21-3.jpg'>
 
 2. 객체를 더블 클릭한 후 무비 박스 서식 메뉴 맨 왼쪽에 있는 파일 아이콘을 클릭한 뒤 영상 파일을 선택하면 영상이 나타납니다.
 
-<img src='./figure/4-21-4.jpg' width='700px'/>
+<img src='./figure/4-21-4.jpg'>
 
 3. 미리보기 창을 열면, 영상을 재생할 수 있습니다. 
 
@@ -279,7 +279,7 @@
 
 
 ### **⑧ 도형<a id="figure"/></a>**
-<img src='./figure/도형.jpg' width='500px'/>
+<img src='./figure/도형.jpg'>
 
 도형 메뉴에서 원하는 모양의 도형을 선택해서 그릴 수 있습니다.   
 
@@ -287,11 +287,11 @@
 
 서식 메뉴에서 도형의 크기, 위치, 회전, 투명도, 선 두께 등의 값을 조절할 수 있습니다. 또한, 정렬, 그룹화, 옵션을 지정할 수 있습니다. 
 
-<img src='./figure/4-22 뒤.jpg' width='500px'/>
+<img src='./figure/4-22 뒤.jpg'>
 
 옵션에서 푸시와 깜박거림 효과가 있습니다.
 
-<img src='./figure/4-22 뒤-2.jpg' width='250px'/>
+<img src='./figure/4-22 뒤-2.jpg'>
 
 [깜박거림] 효과에서 정지할 때 멈추기를 하면 효과를 마우스 클릭으로 멈출 수 있습니다. 동작 시간과 깜박거리는 속도를 지정할 수 있습니다. 
 
@@ -306,7 +306,7 @@
 
 컨트롤 패널의 보기 모드는 눈금자 숨기기, 안내선 보기, 박스선에 붙이기, 안내선에 붙이기를 지원합니다. 
 
-<img src='./figure/4-23.jpg' Width='500px'/>
+<img src='./figure/4-23.jpg'>
 
 원하는 기능을 클릭하시면 사용이 가능합니다. 
 

@@ -15,16 +15,16 @@
 ![image1](/figure/2-1.jpg)
 
 1. 설치 시작 화면에서 <button name="button">다음(N)></button>을 클릭합니다.<br>
-<img src='./figure/2-2.jpg' style="width='600px'; height='auto'; max-width='800px'">
+<img src='./figure/2-2.jpg'>
 
 1. 설치될 폴더를 지정한 후  <button name="button">다음(I)></button>을 클릭합니다.<br>
-<img src='./figure/2-3.jpg' width="600px"/>
+<img src='./figure/2-3.jpg'>
 
 4. 다음 화면에서 <button name="button">설치(N)></button>을 클릭합니다.<br>
-<img src='./figure/2-4.jpg' width="600px"/>
+<img src='./figure/2-4.jpg'>
 
 4. <button name="button">마침(F)></button>을 클릭합니다.<br>
-<img src='./figure/2-5.jpg' width="600px"/>
+<img src='./figure/2-5.jpg'>
 
 
 ---  
@@ -32,13 +32,13 @@
 ## 페이지빌더 실행
 
 1. 시작 메뉴를 클릭하여 앞에서 설치한 페이지빌더 바로가기를 클릭해서 실행합니다.<br>
-<img src='./figure/1-0.jpg' widt="300px"/> 
+<img src='./figure/1-0.jpg'> 
 
 1. 프로그램이 실행되면서 페이지빌더 로딩 페이지가 나타납니다.<br>
-<img src='./figure/2-0.jpg' width="600px"/>
+<img src='./figure/2-0.jpg'>
  
 3. 로딩페이지 이후에 페이지빌더가 실행됩니다.<br>
-<img src='./figure/01-1.jpg' width="600px"/>
+<img src='./figure/01-1.jpg'>
 
 -------
    
