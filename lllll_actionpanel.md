@@ -1,10 +1,14 @@
+---
+description: 액션은 페이지빌더의 핵심 기능 중에 하나로서 그래픽 애니메이션과 사용자와의 인터랙션을 처리합니다.
+---
+
 # 액션 패널 살펴보기
 
-> 액션은 페이지빌더의 핵심 기능 중에 하나로서 그래픽 애니메이션과 사용자와의 인터랙션을 처리합니다. 액션 패널에서는 시간의 흐름에 따른 액션을 지정할 수 있습니다. 객체에 적용할 수 있는 다양한 애니메이션 효과와 자동실행, 누르기\(mouse down\), 떼기\(mouse up\)와 같은 다양한 액션 기능을 제공합니다.
+액션 패널에서는 시간의 흐름에 따른 액션을 지정할 수 있습니다. 객체에 적용할 수 있는 다양한 애니메이션 효과와 자동실행, 누르기\(mouse down\), 떼기\(mouse up\)와 같은 다양한 액션 기능을 제공합니다.
 
 ## **액션 패널 기본 정보**
 
-![image](.gitbook/assets/5-1%20%281%29.jpg)
+![](.gitbook/assets/5-1%20%281%29.jpg)
 
 액션 패널은 액션 컨트롤러, 타임라인 상태표시, 액션 속성 창으로 구성됩니다.
 
@@ -26,29 +30,29 @@
   <tbody>
     <tr>
       <td style="text-align:left">Page</td>
-      <td style="text-align:left">**&#xC790;&#xB3D9;**: &#xD398;&#xC774;&#xC9C0; &#xC2E4;&#xD589;&#xC2DC;
+      <td style="text-align:left">**&#xC790;&#xB3D9;** : &#xD398;&#xC774;&#xC9C0; &#xC2E4;&#xD589;&#xC2DC;
         &#xC790;&#xB3D9;&#xC73C;&#xB85C; &#xC2E4;&#xD589;&#xB429;&#xB2C8;&#xB2E4;.</td>
     </tr>
     <tr>
       <td style="text-align:left">Touch</td>
       <td style="text-align:left">
-        <p>**&#xB204;&#xB974;&#xAE30;**: &#xAC1D;&#xCCB4; &#xD074;&#xB9AD; &#xC0C1;&#xD0DC;&#xC5D0;&#xC11C;
+        <p>**&#xB204;&#xB974;&#xAE30;** : &#xAC1D;&#xCCB4; &#xD074;&#xB9AD; &#xC0C1;&#xD0DC;&#xC5D0;&#xC11C;
           &#xC561;&#xC158;&#xC774; &#xC2E4;&#xD589;&#xB429;&#xB2C8;&#xB2E4;.</p>
-        <p>**&#xB5BC;&#xAE30;**: &#xAC1D;&#xCCB4;&#xC5D0;&#xC11C; &#xBC84;&#xD2BC;
+        <p>**&#xB5BC;&#xAE30;** : &#xAC1D;&#xCCB4;&#xC5D0;&#xC11C; &#xBC84;&#xD2BC;
           &#xC5C5; &#xC0C1;&#xD0DC;&#xC5D0;&#xC11C; &#xC561;&#xC158;&#xC774; &#xC2E4;&#xD589;&#xB429;&#xB2C8;&#xB2E4;.</p>
-        <p>**&#xB4DC;&#xB798;&#xADF8;&amp;&#xB4DC;&#xB86D;**: &#xAC1D;&#xCCB4;&#xB97C;
+        <p>**&#xB4DC;&#xB798;&#xADF8;&amp;&#xB4DC;&#xB86D;** : &#xAC1D;&#xCCB4;&#xB97C;
           &#xB2E4;&#xB978; &#xACF3;&#xC73C;&#xB85C; &#xB04C;&#xC5B4;&#xB2E4; &#xB193;&#xC744;
           &#xB54C; &#xC561;&#xC158;&#xC774; &#xC2E4;&#xD589;&#xB429;&#xB2C8;&#xB2E4;.</p>
-        <p>**&#xB4DC;&#xB798;&#xADF8;**: &#xAC1D;&#xCCB4;&#xB97C; &#xB4DC;&#xB798;&#xADF8;
+        <p>**&#xB4DC;&#xB798;&#xADF8;** : &#xAC1D;&#xCCB4;&#xB97C; &#xB4DC;&#xB798;&#xADF8;
           &#xD560; &#xB54C; &#xC561;&#xC158;&#xC774; &#xC2E4;&#xD589;&#xB429;&#xB2C8;&#xB2E4;.</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">&#xC0AC;&#xC6A9;&#xC790;&#xA0;</td>
       <td style="text-align:left">
-        <p>**&#xC870;&#xAC74;&#xBD80;**: &#xD0C0;&#xAC9F;&#xACFC; &#xC18D;&#xC131;&#xC744;
+        <p>**&#xC870;&#xAC74;&#xBD80;** : &#xD0C0;&#xAC9F;&#xACFC; &#xC18D;&#xC131;&#xC744;
           &#xBE44;&#xAD50;&#xD55C; &#xC124;&#xC815;&#xAC12;&#xC744; &#xC800;&#xC7A5;&#xD569;&#xB2C8;&#xB2E4;.</p>
-        <p>**&#xB77C;&#xC774;&#xBE0C;&#xB7EC;&#xB9AC;**: &#xB77C;&#xC774;&#xBE0C;&#xB7EC;&#xB9AC;&#xC5D0;
+        <p>**&#xB77C;&#xC774;&#xBE0C;&#xB7EC;&#xB9AC;** : &#xB77C;&#xC774;&#xBE0C;&#xB7EC;&#xB9AC;&#xC5D0;
           &#xC124;&#xC815;&#xD55C; &#xC561;&#xC158;&#xC744; &#xC800;&#xC7A5;&#xD569;&#xB2C8;&#xB2E4;.</p>
       </td>
     </tr>
@@ -114,7 +118,7 @@
 
 ## **액션 타입 살펴보기 - 1. 움직임 효과**
 
-![](.gitbook/assets/1.jpg) px
+![](.gitbook/assets/1.jpg) 
 
 액션 타입에서 다양한 움직임 효과를 선택할 수 있습니다.
 
@@ -249,11 +253,11 @@
 * 정지: 지정한 타켓의 액션을 멈춥니다.
 * 콘텐츠 지정: 객체의 콘텐츠를 바꿀 수 있습니다.
 
-  **액션 타입 살펴보기 -3. 태그값**
+**액션 타입 살펴보기 -3. 태그값**
 
-  ![](.gitbook/assets/3.jpg)
+![](.gitbook/assets/3.jpg)
 
-  액션의 태그 값에 따라 다양한 속성을 넣을 수 있습니다.
+액션의 태그 값에 따라 다양한 속성을 넣을 수 있습니다.
 
 * 추가: 태그에 값을 추가합니다. \("He"+"llow"="Hellow", 30+40=3040\)
 * 제거: 태그에 값을 제거합니다.

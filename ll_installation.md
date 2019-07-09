@@ -9,8 +9,8 @@
 
 ## 페이지빌더 다운로드
 
-1. Page Builder.exe 실행 파일을 더블클릭합니다.  ![image1](.gitbook/assets/2-1%20%281%29.jpg)
-2. 설치 시작 화면에서 다음\(N\)&gt;을 클릭합니다.  ![](.gitbook/assets/2-2.jpg)
+1. Page Builder.exe 실행 파일을 더블클릭합니다. ![image1](.gitbook/assets/2-1%20%281%29.jpg)
+2. 설치 시작 화면에서 다음\(N\)&gt;을 클릭합니다. ![](.gitbook/assets/2-2.jpg)
 3. 설치될 폴더를 지정한 후 다음\(I\)&gt;을 클릭합니다.  ![](.gitbook/assets/2-3%20%281%29.jpg)
 4. 다음 화면에서 설치\(N\)&gt;을 클릭합니다.  ![](.gitbook/assets/2-4%20%281%29.jpg)
 5. 마침\(F\)&gt;을 클릭합니다.  ![](.gitbook/assets/2-5.jpg)
