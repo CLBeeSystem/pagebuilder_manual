@@ -1,6 +1,7 @@
 ---
 description: >-
-  컨트롤 패널은 최상단의 탭(홈, 삽입, 보기)에 따라 다른 형태의 리본 메뉴가 나타납니다. 또한 객체의 유형(텍스트박스, 이미지박스, 무비박스 등)에 따라 속성값을 수정하는 서식 메뉴가 나타납니다.
+  컨트롤 패널은 최상단의 탭(홈, 삽입, 보기)에 따라 다른 형태의 리본 메뉴가 나타납니다. 또한 객체의 유형(텍스트박스, 이미지박스,
+  무비박스 등)에 따라 속성값을 수정하는 서식 메뉴가 나타납니다.
 ---
 
 # 컨트롤 패널 살펴보기
@@ -11,9 +12,9 @@ description: >-
 
 ## **홈 탭**
 
-![](.gitbook/assets/04-1%20%281%29.png)
+![](.gitbook/assets/2.1.jpg)
 
-컨트롤 패널의 기본은 홈 탭 모드입니다. 홈 탭에는 ①[클립보드](llll_controlpanel.md#zmfflqqhem), ②[도형 서식](llll_controlpanel.md#ehgudtjtlr), ③[개체 정렬](llll_controlpanel.md#rocpwjdfuf), ⑥[정렬](llll_controlpanel.md#wjdfuf), ⑤[그룹](llll_controlpanel.md#rmfnq), ⑥[확대/축소](llll_controlpanel.md#ghkreocnrth), ⑦[유실된 리소스](llll_controlpanel.md#dbtlfehlsflthtm) 같은 객체를 편집하기 위한 편리 기능이 있습니다.
+컨트롤 패널의 기본은 홈 탭 모드입니다. 홈 탭에는 ①[클립보드](llll_controlpanel.md#zmfflqqhem), ②[도형 서식](llll_controlpanel.md#ehgudtjtlr), ③[개체 정렬](llll_controlpanel.md#rocpwjdfuf), ⑥[정렬](llll_controlpanel.md#wjdfuf), ⑤[확대/축소](llll_controlpanel.md#ghkreocnrth), ⑥[유실된 리소스](llll_controlpanel.md#dbtlfehlsflthtm) 같은 객체를 편집하기 위한 편리 기능이 있습니다.
 
 ### **① 클립보드**
 
@@ -44,11 +45,11 @@ description: >-
 
 | 왼쪽 정렬 | 가운데\(수직\) 정렬 | 오른쪽 정렬 | 수직 중앙 정렬 |
 | :---: | :---: | :---: | :---: |
-| ![](.gitbook/assets/4-1-3-1.jpg) | ![](.gitbook/assets/4-1-3-2.jpg) | ![](.gitbook/assets/4-1-3-3%20%281%29.jpg) | ![](.gitbook/assets/4-1-3-4.jpg) |
+| ![](.gitbook/assets/4-1-3-1%20%282%29.jpg) | ![](.gitbook/assets/4-1-3-2%20%282%29.jpg) | ![](.gitbook/assets/4-1-3-3.jpg) | ![](.gitbook/assets/4-1-3-4%20%281%29.jpg) |
 
 | 상단 정렬 | 가운데\(수평\) 정렬 | 하단 정렬 | 수평 중앙 정렬 |
 | :---: | :---: | :---: | :---: |
-| ![](.gitbook/assets/4-1-3-5.jpg) | ![](.gitbook/assets/4-1-3-6.jpg) | ![](.gitbook/assets/4-1-3-7%20%281%29.jpg) | ![](.gitbook/assets/4-1-3-8.jpg) |
+| ![](.gitbook/assets/4-1-3-5%20%282%29.jpg) | ![](.gitbook/assets/4-1-3-6%20%281%29.jpg) | ![](.gitbook/assets/4-1-3-7%20%281%29.jpg) | ![](.gitbook/assets/4-1-3-8%20%282%29.jpg) |
 
 ### **④ 정렬\(z-index\)**
 
@@ -58,44 +59,25 @@ description: >-
 
 | 현재 위치 \(2-3-1\) | 앞으로 가져오기 \(2-1-3\) | 맨 앞으로 가져오기 \(1-2-3\) |
 | :---: | :---: | :---: |
-| ![](.gitbook/assets/4-3-0%20%281%29.jpg) | ![](.gitbook/assets/4-3-0-1.jpg) | ![](.gitbook/assets/4-3-0-2.jpg) |
+| ![](.gitbook/assets/4-3-0.jpg) | ![](.gitbook/assets/4-3-0-1%20%281%29.jpg) | ![](.gitbook/assets/4-3-0-2%20%282%29.jpg) |
 
 | 현재 위치 \(1-2-3\) | 뒤로 보내기 \(2-1-3\) | 맨 뒤로 보내기 \(2-3-1\) |
 | :---: | :---: | :---: |
-| ![](.gitbook/assets/4-3-0-3%20%281%29.jpg) | ![](.gitbook/assets/4-3-0-4%20%281%29.jpg) | ![](.gitbook/assets/4-3-0-5%20%281%29.jpg) |
+| ![](.gitbook/assets/4-3-0-3%20%282%29.jpg) | ![](.gitbook/assets/4-3-0-4.jpg) | ![](.gitbook/assets/4-3-0-5%20%281%29.jpg) |
 
 | 현재위치 | 앞으로 가져오기 | 맨앞으로 가져오기 |
 | :---: | :---: | :---: |
-| ![](.gitbook/assets/4-3-1.jpg) | ![](.gitbook/assets/4-3-2.jpg) | ![](.gitbook/assets/4-3-3%20%281%29.jpg) |
+| ![](.gitbook/assets/4-3-1.jpg) | ![](.gitbook/assets/4-3-2.jpg) | ![](.gitbook/assets/4-3-3.jpg) |
 
 객체의 정렬 순서\(z-index\)는 레이어 패널에서 확인할 수 있으며, 드래그앤드롭으로도 객체 순서를 바꿀 수 있습니다.
 
-### **⑤ 그룹**
-
-![](.gitbook/assets/4-1-5.jpg)
-
-그룹은 둘 이상의 객체를 묶어 하나의 객체처럼 다루는 방법입니다.
-
-| 그룹 지정 | 그룹 해제 |
-| :---: | :---: |
-| ![](.gitbook/assets/4-1-5-4%20%281%29.jpg) | ![](.gitbook/assets/4-1-5-3.jpg) |
-
-* 그룹 지정: 여러 개의 객체를 선택하고 그룹 아이콘을 클릭하면 그룹화됩니다.
-* 그룹 해제: 그룹 해제 아이콘을 클릭하면 그룹이 해제됩니다.
-
-| 그룹 지정 시 레이어 | 그룹 해제 시 레이어 |
-| :---: | :---: |
-| ![](.gitbook/assets/4-1-5-6.jpg) | ![](.gitbook/assets/4-1-5-5.jpg) |
-
-그룹화는 레이어 패널에서 확인할 수 있으며, 드래그앤드롭으로도 그룹 순서를 바꿀 수 있습니다.
-
-### **⑥ 확대/축소**
+### **⑤ 확대/축소**
 
 ![](.gitbook/assets/4-4.jpg)
 
 작업 창의 화면을 원하는 비율에 맞게 확대/축소 할 수 있습니다.
 
-### **⑦ 유실된 리소스**
+### **⑥ 유실된 리소스**
 
 ![](.gitbook/assets/4-1-7.png)
 
@@ -153,9 +135,7 @@ description: >-
 
 ![](.gitbook/assets/4-11%20%282%29.jpg)
 
-2. 이미지 박스 선택 후 이미지 박스 서식 메뉴에서 왼쪽에 있는 파일 아이콘을 선택하면
-
-   이미지가 열립니다.
+     2. 이미지 박스 선택 후 이미지 박스 서식 메뉴에서 왼쪽에 있는 파일 아이콘을 선택하면 이미지가 열립니다.
 
 ### **이미지 자르기**
 
@@ -194,7 +174,7 @@ description: >-
 
 스크롤 화면의 사이즈를 contents width\(가로\)와 contents height\(세로\)의 입력칸에 수치를 입력해서 조절 할 수 있습니다.
 
-### **⑤ 웹 박스**
+### **④ 웹 박스**
 
 ![](.gitbook/assets/undefined%20%2810%29.jpg)
 
@@ -210,15 +190,15 @@ description: >-
 
 1. 웹 박스를 선택한 후 작업창에 드래그를 합니다.
 
-![](.gitbook/assets/4-20-2%20%281%29.jpg)
+![](.gitbook/assets/4-20-2%20%282%29.jpg)
 
 2. 생성된 웹 박스를 더블 클릭 한 후 웹 박스 서식 메뉴에서 URL 입력 박스에 URL 주소를 입력합니다.
 
-![](.gitbook/assets/4-20-3.jpg)
+![](.gitbook/assets/4-20-3%20%282%29.jpg)
 
 3. 미리보기 창에서 입력한 URL의 웹페이지를 볼 수 있습니다.
 
-### **⑥ 무비 박스**
+### **⑤ 무비 박스**
 
 ![](.gitbook/assets/undefined%20%2816%29.jpg)
 
@@ -230,7 +210,7 @@ description: >-
 
 ### **영상 가져오기**
 
-![](.gitbook/assets/4-21-2%20%281%29.jpg)
+![](.gitbook/assets/4-21-2.jpg)
 
 1. 무비 박스 선택 후 작업 창에 드래그합니다.
 
@@ -238,14 +218,14 @@ description: >-
 
 2. 객체를 더블 클릭한 후 무비 박스 서식 메뉴 맨 왼쪽에 있는 파일 아이콘을 클릭한 뒤 영상 파일을 선택하면 영상이 나타납니다.
 
-![](.gitbook/assets/4-21-4%20%281%29.jpg)
+![](.gitbook/assets/4-21-4.jpg)
 
 3. 미리보기 창을 열면, 영상을 재생할 수 있습니다. 
 
 > 영상 미리보기는 미리보기 하위 메뉴 중 'Google Chrome'과 'Internet Explorer' 에서만 확인이 가능합니다.  
->  \(작업창과 미리보기 하위 메뉴 중 '미리보기' 에서는 영상 재생이 불가합니다.\)
+> \(작업창과 미리보기 하위 메뉴 중 '미리보기' 에서는 영상 재생이 불가합니다.\)
 
-### **⑦ 테이블**
+### **⑥ 테이블**
 
 ![](.gitbook/assets/undefined%20%2813%29.jpg)
 
@@ -261,7 +241,7 @@ description: >-
 
 테이블 아이콘을 클릭하면 표의 칸수를 설정할 수 있는 칸이 나타납니다. 원하시는 만큼의 칸수를 마우스로 선택한 뒤 작업 창에 드래그하면 테이블이 만들어집니다.
 
-### **⑧ 도형**
+### **⑦ 도형**
 
 ![](.gitbook/assets/undefined%20%2819%29.jpg)
 
