@@ -7,13 +7,13 @@
 
 ## **액션 패널 기본 정보<a id=action-panel></a>**
 
-<img src='./figure/5-1.jpg' width="500px">
+<img src='./figure/5-1.jpg' style="width:500px;height:auto;alige:left">
 
 액션 패널은 액션 컨트롤러, 타임라인 상태표시, 액션 속성 창으로 구성됩니다.  
 
 ### **① 액션 컨트롤러<a id=controller></a>**
 
-<img src='./figure/5-1-1.jpg' width="200px">
+<img src='./figure/5-1-1.jpg' style="width:200px;height:auto;alige:left">
 
 액션 컨트롤러에는 Page, Touch, 사용자와 같은 특정한 동작에 필요한 액션을 표시됩니다.
 
