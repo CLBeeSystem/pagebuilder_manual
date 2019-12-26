@@ -16,13 +16,13 @@ description: 삽입 탭에 대한 설명이 있습니다.
 
 텍스트 박스는 글 상자입니다. 텍스트 박스를 선택하면 다음과 같은 텍스트 서식 메뉴가 나타납니다.
 
-![ &#xD074;&#xB9AD;&#xD558;&#xC2DC;&#xBA74; &#xD655;&#xB300;&#xD574;&#xC11C; &#xBCFC; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.](../.gitbook/assets/undefined%20%2816%29.png)
+![ &#xD074;&#xB9AD;&#xD558;&#xC2DC;&#xBA74; &#xD655;&#xB300;&#xD574;&#xC11C; &#xBCFC; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.](../.gitbook/assets/undefined%20%2817%29.png)
 
-서식 메뉴에서 폰트의 종류, 폰트 크기 등의 글자 스타일과 들여쓰기, 행 간격 등 단락 스타일을 지정할 수 있습니다. \[Auto Resizing\]은 작성한 텍스트 높이에 맞춰 텍스트 박스 사이즈가 자동 조절됩니다.
+서식 메뉴에서 폰트의 종류, 폰트 크기 등의 글자 스타일과 들여쓰기, 행 간격 등 단락 스타일을 지정할 수 있습니다. \[Auto Resizing\]를 선택하면 작성한 텍스트 높이에 맞춰 텍스트 박스 사이즈가 자동 조절됩니다.
 
 ### ▣ **텍스트 입력하기**
 
-![](../.gitbook/assets/undefined%20%2817%29.png)
+![](../.gitbook/assets/undefined%20%2818%29.png)
 
 \(1\) 텍스트 박스 아이콘을 클릭하고 작업 창에 드래그하면 텍스트 박스가 생성됩니다. 
 
@@ -69,7 +69,7 @@ description: 삽입 탭에 대한 설명이 있습니다.
 
 이미지 박스는 이미지를 넣을 수 있는 박스입니다. 이미지 박스의 객체를 선택하면 이미지 박스의 서식 메뉴가 나타납니다.
 
-![ &#xD074;&#xB9AD;&#xD558;&#xC2DC;&#xBA74; &#xD655;&#xB300;&#xD574;&#xC11C; &#xBCFC; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.](../.gitbook/assets/undefined%20%2836%29.png)
+![ &#xD074;&#xB9AD;&#xD558;&#xC2DC;&#xBA74; &#xD655;&#xB300;&#xD574;&#xC11C; &#xBCFC; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.](../.gitbook/assets/undefined%20%2838%29.png)
 
 서식 메뉴에서 이미지의 크기와 속성을 지정할 수 있습니다. 왼쪽의 옵션 영역의 파일 아이콘을 클릭하면 이미지 파일을 가져올 수 있습니다. 이미지 자르기\(크롭\)과 액션 효과를 적용할 수 있습니다. 
 
@@ -77,7 +77,7 @@ description: 삽입 탭에 대한 설명이 있습니다.
 
 ### ▣ **이미지 넣기**
 
-![](../.gitbook/assets/undefined%20%2839%29.png)
+![](../.gitbook/assets/undefined%20%2841%29.png)
 
 \(1\) 이미지 박스를 클릭하고 작업창에 드래그를 하면 이미지 박스가 생성됩니다. 
 
@@ -118,7 +118,7 @@ description: 삽입 탭에 대한 설명이 있습니다.
 
 #### **이미지 박스를 선택하고 이미지 리본 메뉴에서 링크를 적고 체크박스를 선택합니다.**
 
-![](../.gitbook/assets/undefined%20%2835%29.png)
+![](../.gitbook/assets/undefined%20%2837%29.png)
 
 링크 박스에 체크 하신 후, 입력창에 웹 URL을 입력하시면 가져온 이미지에 링크가 연결됩니다. URL을 실행하는 방법은 세가지가 있습니다.
 
@@ -132,13 +132,13 @@ description: 삽입 탭에 대한 설명이 있습니다.
 
 스크롤 기능으로 화면의 스크롤 영역 크기를 조절할 수 있습니다. 스크롤 박스로 기존의 작업창보다 더 많은 내용의 컨텐츠를 담을 수 있습니다.
 
-![ &#xD074;&#xB9AD;&#xD558;&#xC2DC;&#xBA74; &#xD655;&#xB300;&#xD574;&#xC11C; &#xBCFC; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.](../.gitbook/assets/undefined%20%2827%29.png)
+![ &#xD074;&#xB9AD;&#xD558;&#xC2DC;&#xBA74; &#xD655;&#xB300;&#xD574;&#xC11C; &#xBCFC; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.](../.gitbook/assets/undefined%20%2828%29.png)
 
 스크롤 내부 사이즈는를 contents width\(가로\)와 contents height\(세로\) 각각의 입력칸에 수치를 입력해서 조절 할 수 있습니다. 또한 스크롤 모양을 선택할 수 있습니다.
 
 ### ▣ 스크롤박스 사용하기 
 
-![](../.gitbook/assets/undefined%20%2822%29.png)
+![](../.gitbook/assets/undefined%20%2823%29.png)
 
 \(1\) 스크롤박스 아이콘을 선택하고 작업창에 드래그로 원하는 크기와 위치에 박스를 그립니다.
 
@@ -172,7 +172,7 @@ description: 삽입 탭에 대한 설명이 있습니다.
 
 웹 박스를 사용해서 웹 사이트를 작업창에 가져올 수 있습니다.
 
-![ &#xD074;&#xB9AD;&#xD558;&#xC2DC;&#xBA74; &#xD655;&#xB300;&#xD574;&#xC11C; &#xBCFC; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.](../.gitbook/assets/undefined%20%2837%29.png)
+![ &#xD074;&#xB9AD;&#xD558;&#xC2DC;&#xBA74; &#xD655;&#xB300;&#xD574;&#xC11C; &#xBCFC; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.](../.gitbook/assets/undefined%20%2839%29.png)
 
 웹 박스 선택 후 웹 박스 서식 메뉴에서 URL 입력 박스에 웹 주소를 입력하면 됩니다. 
 
@@ -224,7 +224,7 @@ description: 삽입 탭에 대한 설명이 있습니다.
 
 테이블을 이용하여 작업창 표를 만들 수 있습니다.
 
-![ &#xD074;&#xB9AD;&#xD558;&#xC2DC;&#xBA74; &#xD655;&#xB300;&#xD574;&#xC11C; &#xBCFC; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.](../.gitbook/assets/undefined%20%2834%29.png)
+![ &#xD074;&#xB9AD;&#xD558;&#xC2DC;&#xBA74; &#xD655;&#xB300;&#xD574;&#xC11C; &#xBCFC; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.](../.gitbook/assets/undefined%20%2836%29.png)
 
 테이블 서식 메뉴에서 표의 크기와 위치를 지정할 수 있습니다. 테두리 더블 클릭하시면 의 테두리 세부 설정이 가능합니다.
 
@@ -294,7 +294,7 @@ description: 삽입 탭에 대한 설명이 있습니다.
 
 도형 메뉴에서 원하는 모양의 도형을 선택해서 그릴 수 있습니다.
 
-![ &#xD074;&#xB9AD;&#xD558;&#xC2DC;&#xBA74; &#xD655;&#xB300;&#xD574;&#xC11C; &#xBCFC; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.](../.gitbook/assets/undefined%20%2828%29.png)
+![ &#xD074;&#xB9AD;&#xD558;&#xC2DC;&#xBA74; &#xD655;&#xB300;&#xD574;&#xC11C; &#xBCFC; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.](../.gitbook/assets/undefined%20%2830%29.png)
 
 서식 메뉴에서 도형의 크기, 위치, 회전, 투명도, 선 두께 등의 값을 조절할 수 있습니다. 또한, 정렬, 그룹화, 옵션을 지정할 수 있습니다. 옵션에 푸시와 깜박거림 효과가 있습니다.
 
@@ -318,7 +318,7 @@ description: 삽입 탭에 대한 설명이 있습니다.
 
 #### 도형을 선택하신 후, 도형 리본 메뉴에서 링크 체크박스를 선택한 뒤 입력칸에 링크를 넣습니다. 
 
-![](../.gitbook/assets/undefined%20%2818%29.png)
+![](../.gitbook/assets/undefined%20%2819%29.png)
 
 링크 박스에 체크 하신 후, 입력창에 웹 URL을 입력하시면 가져온 이미지에 링크가 연결됩니다. URL을 실행하는 방법은 세가지가 있습니다.
 

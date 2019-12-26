@@ -20,5 +20,5 @@
   * [조건부 액션 만드는 순서](undefined/undefined-1.md)
   * [조건부 액션을 실행하는 방법](undefined/undefined-2.md)
   * [조건부 태그 변경 액션 소개](undefined/undefined-3.md)
-  * [조건부 액션 만들기 예시](undefined/undefined-4.md)
+  * [조건부 액션 예시](undefined/undefined-4.md)
 

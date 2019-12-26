@@ -6,7 +6,7 @@ description: 홈 탭에 대한 설명이 있습니다.
 
 ## **홈 탭**
 
-![&#xD074;&#xB9AD;&#xD558;&#xC2DC;&#xBA74; &#xD655;&#xB300;&#xD574;&#xC11C; &#xBCFC; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.](../.gitbook/assets/undefined%20%2812%29.png)
+![&#xD074;&#xB9AD;&#xD558;&#xC2DC;&#xBA74; &#xD655;&#xB300;&#xD574;&#xC11C; &#xBCFC; &#xC218; &#xC788;&#xC2B5;&#xB2C8;&#xB2E4;.](../.gitbook/assets/undefined%20%2813%29.png)
 
 컨트롤 패널의 기본은 홈 탭 모드입니다. \[홈 탭\]에는 ①클립보드, ②도형 서식, ③개체 정렬, ⑥정렬, ⑤확대/축소, ⑥그룹, ⑦유실된 리소스 같은 객체를 편집하기 위한 편리 기능이 있습니다.
 
@@ -33,7 +33,7 @@ description: 홈 탭에 대한 설명이 있습니다.
 
 ### **③ 객체 정렬**
 
-![](../.gitbook/assets/undefined%20%2814%29.png)
+![](../.gitbook/assets/undefined%20%2815%29.png)
 
 정렬은 여러 개의 레이어 모서리 위치를 맞추거나 간격을 적절하게 지정할 수 있는 도구입니다. 두 개 이상의 레이어를 선택한 후 원하는 방향의 정렬 및 배분 아이콘을 선택하시면 됩니다.
 
@@ -47,7 +47,7 @@ description: 홈 탭에 대한 설명이 있습니다.
 
 ### **④ 정렬\(z-index\)**
 
-![](../.gitbook/assets/undefined%20%2820%29.png)
+![](../.gitbook/assets/undefined%20%2821%29.png)
 
 객체를 선택한 후 정렬 아이콘을 선택하시면 객체의 배치 순서를 바꿀 수 있습니다.
 
@@ -67,7 +67,7 @@ description: 홈 탭에 대한 설명이 있습니다.
 
 ###  **⑤ 그**룹
 
-![](../.gitbook/assets/undefined%20%2831%29.png)
+![](../.gitbook/assets/undefined%20%2833%29.png)
 
 그룹으로 둘 이상의 객체를 묶어 하나의 객체처럼 다룰 수 있습니다.
 
@@ -92,7 +92,7 @@ description: 홈 탭에 대한 설명이 있습니다.
 
 ### **⑦ 유실된 리소스**
 
-![](../.gitbook/assets/undefined%20%2819%29.png)
+![](../.gitbook/assets/undefined%20%2820%29.png)
 
 유실된 리소스란 페이지빌더 문서에서 참조하고 있으나 실제 존재하지 않는 리소스\(이미지 파일, 액션\)를 의미합니다.
 
